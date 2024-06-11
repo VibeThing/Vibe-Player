@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\Desktop\\vibething\\Vibe-Player\\vibeplayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{067492AF-6144-4046-AFD7-843691FB86F9}|vibeplayer\\vibeplayer.vbproj|c:\\users\\adria\\desktop\\vibething\\vibe-player\\vibeplayer\\vibeplayer\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{067492AF-6144-4046-AFD7-843691FB86F9}|vibeplayer\\vibeplayer.vbproj|solutionrelative:vibeplayer\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067492AF-6144-4046-AFD7-843691FB86F9}|vibeplayer\\vibeplayer.vbproj|c:\\users\\adria\\desktop\\vibething\\vibe-player\\vibeplayer\\vibeplayer\\login.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{067492AF-6144-4046-AFD7-843691FB86F9}|vibeplayer\\vibeplayer.vbproj|solutionrelative:vibeplayer\\login.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.vb [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\vibething\\Vibe-Player\\vibeplayer\\vibeplayer\\Login.vb",
+              "RelativeDocumentMoniker": "vibeplayer\\Login.vb",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\vibething\\Vibe-Player\\vibeplayer\\vibeplayer\\Login.vb [Progettazione]",
+              "RelativeToolTip": "vibeplayer\\Login.vb [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-09T14:34:34.831Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\vibething\\Vibe-Player\\vibeplayer\\vibeplayer\\Login.Designer.vb",
+              "RelativeDocumentMoniker": "vibeplayer\\Login.Designer.vb",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\vibething\\Vibe-Player\\vibeplayer\\vibeplayer\\Login.Designer.vb",
+              "RelativeToolTip": "vibeplayer\\Login.Designer.vb",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-09T14:33:48.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

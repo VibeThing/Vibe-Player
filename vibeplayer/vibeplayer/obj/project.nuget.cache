@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "tbZiA8F8giI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\Desktop\\vibething\\Vibe-Player\\vibeplayer\\vibeplayer\\vibeplayer.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\dynamicdata\\8.4.1\\dynamicdata.8.4.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\materialskin.2.rtl\\2.3.1.1\\materialskin.2.rtl.2.3.1.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\reactiveui\\20.1.1\\reactiveui.20.1.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\splat\\15.1.1\\splat.15.1.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
